@@ -1,0 +1,31 @@
+body {
+    margin-left: 25px;
+    background-color: rgb(239, 152, 152);
+    font-size: 19px;
+}
+
+h1 {
+    font-size: 2em;
+    font-family:'Times New Roman', Times, serif';
+    
+    }
+
+h2 {
+    font-family:'Times New Roman', Times, serif';
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 23px;
+}
+
+img {
+    width: 400px;
+    border-radius: 30%;
+   }
+
+.list-style {
+    font-weight: bold;
+    color: rgb(107, 13, 114);
+    line-height: 25px;
+}
