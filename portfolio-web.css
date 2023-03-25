@@ -7,16 +7,16 @@ body {
 h1 {
     font-size: 2em;
     font-family:'Times New Roman', Times, serif';
-    
-    }
+     }
 
 h2 {
     font-family:'Times New Roman', Times, serif';
 }
 
 p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 23px;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif , Times, serif;
+    line-height: 23.5px;
 }
 
 img {
@@ -28,4 +28,8 @@ img {
     font-weight: bold;
     color: rgb(107, 13, 114);
     line-height: 25px;
+}
+
+.font-size {
+    font-size: 110%;
 }
